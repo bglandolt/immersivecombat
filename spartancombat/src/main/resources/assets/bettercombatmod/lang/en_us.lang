@@ -1,0 +1,28 @@
+bettercombatmod.effect.aetherealized=§bÆtherealized§r
+description.aetherealized=Converts a portion of your physical damage to magic damage
+
+bettercombatmod.effect.precision=Precision
+description.precision=Increases critical strike chance
+
+bettercombatmod.effect.brutality=Brutality
+description.brutality=Increases critical strike damage
+
+enchantment.lightning.name=§bLightning§r
+enchantment.lightning.desc=Call down lightning from the sky, dealing magic in a radius. Deals increased damage against damp targets, and can only be used outside.
+
+bettercombatmod.info.fatigue.color=§c
+bettercombatmod.info.fatigue.text=Two-Handed 
+
+bettercombatmod.info.reach.color=§a
+bettercombatmod.info.reach.text=Reach 
+
+bettercombatmod.info.sweep.color=§a
+bettercombatmod.info.sweep.text=Sweep 
+
+bettercombatmod.info.critChance.color= §7
+bettercombatmod.info.critChance.text= Critical Chance
+
+bettercombatmod.info.critDamage.color=§a
+bettercombatmod.info.critDamage.text= Critical Damage
+
+key.fastEquip.desc=Fast Equip

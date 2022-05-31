@@ -1,0 +1,532 @@
+{
+    "player.swordslash":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:swordslash",
+               "stream": false
+           }
+       ]
+   },
+   "player.criticalstrike":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:criticalstrike",
+               "stream": false
+           }
+       ]
+   },
+   "player.armor_hit":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:armor_hit",
+               "stream": false
+           }
+       ]
+   },
+   "player.sword_ring0":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:sword_ring0",
+               "stream": false
+           }
+       ]
+   },
+   "player.sword_ring1":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:sword_ring1",
+               "stream": false
+           }
+       ]
+   },
+   "player.sword_hit0":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:sword_hit0",
+               "stream": false
+           }
+       ]
+   },
+   "player.sword_hit1":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:sword_hit1",
+               "stream": false
+           }
+       ]
+   },
+   "player.sword_hit2":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:sword_hit2",
+               "stream": false
+           }
+       ]
+   },
+   "player.sword_hit3":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:sword_hit3",
+               "stream": false
+           }
+       ]
+   },
+   "player.blunt_hit0":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:blunt_hit0",
+               "stream": false
+           }
+       ]
+   },
+   "player.blunt_hit1":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:blunt_hit1",
+               "stream": false
+           }
+       ]
+   },
+   "player.blunt_hit2":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:blunt_hit2",
+               "stream": false
+           }
+       ]
+   },
+   "player.blunt_hit3":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:blunt_hit3",
+               "stream": false
+           }
+       ]
+   },
+   "player.nonmetal_hit0":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:nonmetal_hit0",
+               "stream": false
+           }
+       ]
+   },
+   "player.nonmetal_hit1":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:nonmetal_hit1",
+               "stream": false
+           }
+       ]
+   },
+   "player.nonmetal_hit2":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:nonmetal_hit2",
+               "stream": false
+           }
+       ]
+   },
+   "player.nonmetal_hit3":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:nonmetal_hit3",
+               "stream": false
+           }
+       ]
+   },
+   "player.nonmetal_hit4":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:nonmetal_hit4",
+               "stream": false
+           }
+       ]
+   },
+   "player.nonmetal_hit5":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:nonmetal_hit5",
+               "stream": false
+           }
+       ]
+   },
+   "player.sword_sweep_left0":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:sword_sweep_left0",
+               "stream": false
+           }
+       ]
+   },
+   "player.sword_sweep_left1":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:sword_sweep_left1",
+               "stream": false
+           }
+       ]
+   },
+   "player.sword_sweep_left2":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:sword_sweep_left2",
+               "stream": false
+           }
+       ]
+   },
+   "player.sword_sweep_left3":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:sword_sweep_left3",
+               "stream": false
+           }
+       ]
+   },
+   "player.sword_sweep_left4":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:sword_sweep_left4",
+               "stream": false
+           }
+       ]
+   },
+   "player.sword_sweep_left5":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:sword_sweep_left5",
+               "stream": false
+           }
+       ]
+   },
+   "player.sword_sweep_left6":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:sword_sweep_left6",
+               "stream": false
+           }
+       ]
+   },
+   "player.sword_sweep_right0":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:sword_sweep_right0",
+               "stream": false
+           }
+       ]
+   },
+   "player.sword_sweep_right1":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:sword_sweep_right1",
+               "stream": false
+           }
+       ]
+   },
+   "player.sword_sweep_right2":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:sword_sweep_right2",
+               "stream": false
+           }
+       ]
+   },
+   "player.sword_sweep_right3":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:sword_sweep_right3",
+               "stream": false
+           }
+       ]
+   },
+   "player.sword_sweep_right4":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:sword_sweep_right4",
+               "stream": false
+           }
+       ]
+   },
+   "player.sword_sweep_right5":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:sword_sweep_right5",
+               "stream": false
+           }
+       ]
+   },
+   "player.sword_sweep_right6":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:sword_sweep_right6",
+               "stream": false
+           }
+       ]
+   },
+   "player.heavy_swing_left0":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:heavy_swing_left0",
+               "stream": false
+           }
+       ]
+   },
+   "player.heavy_swing_left1":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:heavy_swing_left1",
+               "stream": false
+           }
+       ]
+   },
+   "player.heavy_swing_left2":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:heavy_swing_left2",
+               "stream": false
+           }
+       ]
+   },
+   "player.normal_swing_left0":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:normal_swing_left0",
+               "stream": false
+           }
+       ]
+   },
+   "player.normal_swing_left1":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:normal_swing_left1",
+               "stream": false
+           }
+       ]
+   },
+   "player.normal_swing_left2":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:normal_swing_left2",
+               "stream": false
+           }
+       ]
+   },
+   "player.normal_swing_left3":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:normal_swing_left3",
+               "stream": false
+           }
+       ]
+   },
+   "player.normal_swing_left4":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:normal_swing_left4",
+               "stream": false
+           }
+       ]
+   },
+   "player.quick_swing_left0":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:quick_swing_left0",
+               "stream": false
+           }
+       ]
+   },
+   "player.quick_swing_left1":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:quick_swing_left1",
+               "stream": false
+           }
+       ]
+   },
+   "player.heavy_swing_right0":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:heavy_swing_right0",
+               "stream": false
+           }
+       ]
+   },
+   "player.heavy_swing_right1":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:heavy_swing_right1",
+               "stream": false
+           }
+       ]
+   },
+   "player.heavy_swing_right2":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:heavy_swing_right2",
+               "stream": false
+           }
+       ]
+   },
+   "player.normal_swing_right0":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:normal_swing_right0",
+               "stream": false
+           }
+       ]
+   },
+   "player.normal_swing_right1":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:normal_swing_right1",
+               "stream": false
+           }
+       ]
+   },
+   "player.normal_swing_right2":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:normal_swing_right2",
+               "stream": false
+           }
+       ]
+   },
+   "player.normal_swing_right3":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:normal_swing_right3",
+               "stream": false
+           }
+       ]
+   },
+   "player.normal_swing_right4":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:normal_swing_right4",
+               "stream": false
+           }
+       ]
+   },
+   "player.quick_swing_right0":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:quick_swing_right0",
+               "stream": false
+           }
+       ]
+   },
+   "player.quick_swing_right1":
+    {
+       "sounds": 
+       [
+           {
+               "name": "bettercombatmod:quick_swing_right1",
+               "stream": false
+           }
+       ]
+   }
+}
